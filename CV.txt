@@ -1,0 +1,113 @@
+Leyton Jean Piere Castro Clavijo
+Email: ljpcastroc@gmail.com
+Móvil: (+57) 318 785 7029
+Ibagué, Colombia
+LinkedIn: https://www.linkedin.com/in/ljpcastroc/
+GitHub: https://github.com/ljpiere
+
+PERFIL PROFESIONAL
+Profesional en Ingeniería con sólida experiencia docente en análisis de datos, programación,
+computación en la nube y fundamentos de ingeniería de software. He impartido cursos de Python,
+Java, SQL, AWS y fundamentos de programación en instituciones como CoderHouse, TripleTen y
+Correlation One. Mi trayectoria combina práctica profesional como Ingeniero de Datos en entornos
+Big Data y Cloud (AWS, Hadoop, Spark, Jenkins) con habilidades pedagógicas orientadas a la
+enseñanza bilingüe (inglés B2–C1). Actualmente curso una Maestría en Ingeniería de Software,
+fortaleciendo mi capacidad para diseñar, estructurar y guiar unidades académicas en áreas de
+programación, arquitectura y tecnologías emergentes.
+
+HABILIDADES TÉCNICAS
+Experiencia en desarrollo de procesos ETL con Talend, Apache Spark y ecosistemas
+Hadoop/Cloudera. Competencia en Python y Java para programación, análisis de datos y desarrollo
+de algoritmos. Manejo de plataformas de Big Data (Hadoop, Spark, Sqoop) y bases de datos SQL
+(PostgreSQL, Oracle, MySQL). Experiencia en AWS, Google Cloud y Azure para despliegue de
+soluciones en la nube. Familiaridad con prácticas DevOps mediante Jenkins y orquestación de
+flujos con Apache Airflow. Conocimientos en visualización y análisis mediante Power BI.
+
+EDUCACIÓN
+2015 - 2021 Universidad del Tolima
+Ingeniero Agroindustrial – HSQL Auditor
+Experiencia en investigación en Física teórica con publicaciones.
+
+2018 - 2023 Universidad Nacional Abierta y a Distancia – UNAD
+Ingeniero Industrial
+Experiencia en investigación de matemática aplicada y simulación con Python.
+
+2021 - 2021 Acamica – Digital House
+Data Science Bootcamp
+
+2022 - 2022 Pontificia Universidad Javeriana
+Diplomado en Big Data para la toma de decisiones (Ecosistema Hadoop + Spark)
+
+2022 - 2022 Correlation One
+Data Science Bootcamp
+
+2023 - 2023 Universidad Autónoma de Occidente
+Especialización en analítica de Big Data
+
+2024 - 2025 Pontificia Universidad Javeriana – Cali
+Especialización en Ingeniería de Software
+
+2024 - 2025 (Egresado) Pontificia Universidad Javeriana – Cali
+Maestría en Ingeniería de Software
+
+EXPERIENCIA EN INVESTIGACIÓN Y TRABAJO
+Enero 2024 – Actualidad
+Scotiabank (ScotiaGBS)
+Data Engineer
+Ingeniero de datos en actividades de desarrollo de ETL, soporte a datalake empresarial y DevOps
+en Jenkins para banca canadiense.
+
+Jun 2025 – Agosto 2025
+Pontificia Universidad Javeriana - Cali
+Profesor curso verano
+Arquitecturas en Amazon Web Services – AWS Cloud Practitioner
+
+Nov 2024 – Dic 2025
+Tripleten LATAM
+Tutor
+Staff docente para los cursos de analítica de datos con Python y ciencia de datos con Python.
+
+Nov 2023 – Enero 2024
+Accenture
+Tech Architecture Analyst
+Líder de soporte para plataforma de datos de analítica basado en Hadoop y Python + Spark.
+
+Junio 2022 – Octubre 2023
+Accenture
+Data Engineer Analyst
+Líder técnico de proyecto en ecosistema Cloudera (Hadoop + Spark) para reportes de negocio,
+modelos de Machine Learning y BI.
+
+Nov 2021 – Julio 2023
+CoderHouse
+Profesor
+Profesor de carrera para los cursos de Ciencia de datos en Python, Computación en la Nube e
+Ingeniería de Datos.
+
+Nov 2021 – Dic 2022
+Correlation One
+Asistente de profesor en curso de Introducción al Análisis de datos para la transformación digital.
+Herramientas: Python, SQL, AWS, Apache Airflow.
+
+Mayo 2021 – Junio 2022
+Accenture
+Data Engineer Associate
+Generación de procesos ETL en Talend Data Integration y Apache Spark para generación de
+reportes utilizando SAP.
+
+Marzo 2021 – Marzo 2022
+Generación Plus International
+Líder de proyectos sociales
+Escuela de Formación "Mujeres que Impactan el Territorio" (MIT). Proyecto enfocado a la
+transformación digital de las mujeres del territorio.
+
+INFORMACIÓN ADICIONAL
+Certificaciones: AWS Cloud Practitioner, Data Scientist de Correlation One, Diplomatura en Big
+Data (Pontificia Universidad Javeriana).
+
+Otros cursos: Gestión de bases de datos SQL (MySQL, Oracle y PostgreSQL), Python y R para
+Científicos de Datos y Modelos de Aprendizaje Automático; ecosistemas Hadoop, Spark y Cloudera.
+Herramientas de Data Flow como Talend, Airflow y Sqoop. Computo en la nube en Microsoft Azure,
+Google Cloud y AWS. Herramientas de visualización Power BI.
+
+Idiomas: Español (nativo), Inglés (EF) nivel C1 (certificado).
